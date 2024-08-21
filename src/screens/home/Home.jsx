@@ -7,11 +7,11 @@ import { Fontisto, Ionicons } from '@expo/vector-icons';
 
 import FontAwesome from '@expo/vector-icons/FontAwesome';
 
-import { Welcome, Carousel, Headings } from '../../components';
+// import { Welcome, Carousel, Headings } from '../../components';
 
-// import Welcome from "../../components/home/welcome/Welcome.jsx";
-// import Carousel from "../../components/home/carousel/Carousel.jsx";
-// import Headings from "../../components/home/headings/Headings.jsx";
+import Welcome from "../../components/home/welcome/Welcome.jsx";
+import Carousel from "../../components/home/carousel/Carousel.jsx";
+import Headings from "../../components/home/headings/Headings.jsx";
 
 const Home = () => {
   
